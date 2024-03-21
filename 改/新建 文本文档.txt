@@ -1,0 +1,3 @@
+An efficient VLSI architecture for fast motion 
+estimation exploiting zero motion prejudgment technique and a new quadrant
+based search algorithm in HEVC
